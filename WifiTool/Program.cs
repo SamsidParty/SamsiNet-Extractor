@@ -34,6 +34,7 @@ public class Program
             TitlebarColor = TitlebarColor,
             StartWidthHeight = new Rectangle(400, 600, 520, 780),
             LockWidthHeight = true,
+            EnableAcrylic = true,
             IconPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "WWW", "Image", "Icon.ico")
         };
 

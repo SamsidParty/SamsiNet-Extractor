@@ -21,6 +21,18 @@
     </Content>
   </ItemGroup>
 
+	<ItemGroup>
+	  <Compile Remove="BUILD\**" />
+	  <Compile Remove="MSIX\**" />
+	  <Compile Remove="PACK\**" />
+	  <EmbeddedResource Remove="BUILD\**" />
+	  <EmbeddedResource Remove="MSIX\**" />
+	  <EmbeddedResource Remove="PACK\**" />
+	  <None Remove="BUILD\**" />
+	  <None Remove="MSIX\**" />
+	  <None Remove="PACK\**" />
+	</ItemGroup>
+
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
