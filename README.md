@@ -1,7 +1,9 @@
+# This Project Is Now Discontinued
+Windows 11 24H2 Adds The Functionality Of This Tool Natively In The Settings App.
+There Is No Need To Use This Anymore.
+
 # SamsiNet Extractor
 Wi-Fi Password Extraction Tool For Windows
-
-[![Poster](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/Wi-Fi%20Password%20Extract/9nbp31q4p74k?mode=direct)
 
 ![Poster](Docs/PosterDark.png) 
 
